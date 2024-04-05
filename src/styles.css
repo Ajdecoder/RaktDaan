@@ -1,0 +1,225 @@
+
+:root{ --background: #FBEAEB; --dominant-color: #D62839; --primary-color: #175676; --secondary-color: #4BA3C3; --success-color: #20AC6B; --danger-color: #AE1E2C; --warning-color: #CC9900; --info-color: #0AA3C2; --background-text: #000000; --dominant-text: #FFFFFF; --primary-text: #FFFFFF; --secondary-text: #000000; --success-text: #FFFFFF; --danger-text: #FFFFFF; --warning-text: #000000; --info-text: #FFFFFF;}
+
+*{
+  margin: 0;
+  padding: 0%;
+}
+
+.cid-u65eFhOL3t  {
+  z-index: 1000;
+  width: 100%;
+  position: relative;
+}
+
+.cid-u65eFhRSHi {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #000000;
+}
+.cid-u65eFhRSHi .social-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.cid-u65eFhRSHi .social-row .soc-item {
+  margin: 8px;
+}
+.cid-u65eFhRSHi .social-row .soc-item a:hover .mbr-iconfont,
+.cid-u65eFhRSHi .social-row .soc-item a:focus .mbr-iconfont {
+  background-color: #ffffff;
+}
+.cid-u65eFhRSHi .social-row .soc-item a .mbr-iconfont {
+  width: 72px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  font-size: 32px;
+  background-color: #edefeb;
+  color: #000000;
+  transition: all 0.3s ease-in-out;
+}
+.cid-u65eFhRSHi .row-links {
+  width: 100%;
+  justify-content: center;
+}
+.cid-u65eFhRSHi .header-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-u65eFhRSHi .header-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-u65eFhRSHi .header-menu li p {
+  margin: 0;
+}
+.cid-u65eFhRSHi .copyright {
+  margin-bottom: 0;
+  color: #ffffff;
+  text-align: center;
+}
+.cid-u65eFhRSHi .mbr-section-title {
+  color: #ffffff;
+}
+
+.inputspan{
+  height: 134px !important;;
+}
+
+.cid-u65eFhQm3I {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+
+.cid-u65eFhQm3I .item-wrapper img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 50% !important;
+}
+
+.cid-u65eFhQm3I .item-wrapper {
+  margin-bottom: 2rem;
+}
+
+.cid-u65eFhQm3I .card-title,
+.cid-u65eFhQm3I .iconfont-wrapper {
+  color: #000000;
+}
+
+.cid-u65eFhQm3I .card-text {
+  color: #000000;
+  text-align: center;
+}
+
+.cid-u65eFhQm3I .content-head {
+  max-width: 800px;
+}
+
+.cid-u65eFhQm3I .mbr-section-title {
+  color: #000000;
+}
+
+.cid-u65eFhQm3I .card-title,
+.cid-u65eFhQm3I .img-wrapper {
+  text-align: center;
+}
+
+.cid-u65eFhQm3I .img-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+
+.cid-u65eFhQxby {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: transparent;
+}
+.cid-u65eFhQxby .mbr-iconfont {
+  font-size: 1.2rem !important;
+  font-family: 'Moririse2' !important;
+  color: white;
+  transition: all 0.3s;
+  transform: rotate(180deg);
+}
+.cid-u65eFhQxby .panel-group {
+  border: none;
+}
+.cid-u65eFhQxby .card-header {
+  padding: 1.2rem 0.5rem;
+}
+@media (max-width: 767px) {
+  .cid-u65eFhQxby .card-header {
+    padding: 1rem 0rem;
+  }
+}
+.cid-u65eFhQxby .panel-body {
+  padding: 0 0.5rem;
+  padding-bottom: 1rem;
+}
+@media (max-width: 767px) {
+  .cid-u65eFhQxby .panel-body {
+    padding: 0rem;
+    padding-bottom: 1rem;
+  }
+}
+.cid-u65eFhQxby .img-col {
+  padding: 0;
+}
+.cid-u65eFhQxby .img-item {
+  height: 100%;
+}
+.cid-u65eFhQxby img {
+  height: 100%;
+  object-fit: cover;
+}
+.cid-u65eFhQxby .collapsed span {
+  transform: rotate(0deg);
+}
+.cid-u65eFhQxby .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-u65eFhQxby p {
+  margin-bottom: 0.3rem;
+}
+.cid-u65eFhQxby .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+  border: 0;
+  border-radius: 2rem;
+}
+.cid-u65eFhQxby .card {
+  background: #ffffff;
+  padding: 1rem 2rem;
+  border-radius: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-u65eFhQxby .card {
+    padding: 1.5rem;
+  }
+}
+.cid-u65eFhQxby .panel-text {
+  color: #000000;
+}
+.cid-u65eFhQxby .mbr-section-title {
+  text-align: center;
+  color: #000000;
+}
+.cid-u65eFhQxby .mbr-section-subtitle {
+  color: #000000;
+  text-align: center;
+}
+.cid-u65eFhQxby .panel-title-edit,
+.cid-u65eFhQxby .mbr-iconfont {
+  color: #000000;
+}
+
+h6{
+  list-style: none !important;
+}
+
+.rowcard{
+ row-gap: 25px;
+ border: 3px solid rgb(21, 68, 223);
+ border-radius: 35px;
+ padding: 24px;
+}
+
+.sliderShow{
+}
+.sliderImage{
+}
+
+/* Media Queries */
+
